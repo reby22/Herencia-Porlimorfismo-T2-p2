@@ -1,6 +1,8 @@
-#Diagrama Adjunto
+#Diagrama Adjunto#
+
 ![Diagrama UML](Diagrama.png)
-#Código de Plantuml
+
+#Código de Plantuml#
 ```
 abstract class Figure{
 
